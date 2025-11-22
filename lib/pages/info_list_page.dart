@@ -6,8 +6,8 @@ class InfoListPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final data = [
-      {"nama": "Kampus UTB", "desc": "Lokasi kampus utama"},
-      {"nama": "Alun-alun Bandung", "desc": "Tempat wisata kota Bandung"},
+      {"nama": "Kampus UNTAD", "desc": "Lokasi kampus utama"},
+      {"nama": "Lembang Park Zoo", "desc": "Kawasan rekreasi"},
       {"nama": "Gedung Sate", "desc": "Ikon provinsi Jawa Barat"},
     ];
 
