@@ -1,3 +1,6 @@
+saya mengerjakan tugas uts ini di laptop teman saya jadi push nya atas nama ilmi karena di laptop saya eror  
+
+
 <<<<<<< HEAD
 # maps_apk
 =======
