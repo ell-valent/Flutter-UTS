@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # maps_apk
+=======
+# project_uts
+>>>>>>> 5bf4995 (Add project_uts folder)
 
 A new Flutter project.
 
